@@ -62,8 +62,8 @@
             <li>Basic</li>
           </ol>
           <h1>BIENVENIDOS A NUESTRA APLICACION, IPOTANTE!!!</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
-          <p>Modificado por mi a las 9:33</p>
+          <p>El ingeneyo es tu amigo.... </p>
+          <p>Modificado por Allan C. a las 16:35</p>
         </div>
       </div>
       <div class="row">
