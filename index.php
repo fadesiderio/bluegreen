@@ -61,9 +61,9 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>BIENVENIDOS A NUESTRA APLICACION, IPOTANTE!!!</h1>
-          <p>El ingeneyo es tu amigo.... </p>
-          <p>Modificado por Allan C. a las 16:35</p>
+          <h1>GRABIELA ES LA SALADA</h1>
+          <p>Gracias Roberto por el sushi de mañana.... </p>
+          <p>Modificado por Allan C. a las 16:44</p>
         </div>
       </div>
       <div class="row">
