@@ -61,9 +61,9 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>GRABIELA ES LA SALADA</h1>
-          <p>Gracias Roberto por el sushi de mañana.... </p>
-          <p>Modificado por Allan C. a las 16:44</p>
+          <h1>Aplicación Deploy Mordor Bluegreen</h1>
+          <p>Se Realizo el Examen OpenShift </p>
+          <p>Modificado por fdv 18:34</p>
         </div>
       </div>
       <div class="row">
