@@ -61,9 +61,9 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Aplicación Deploy Mordor Blue</h1>
-          <p>Se Realizo el Examen OpenShift EX280</p>
-          <p>Modificado por fdv 18:44</p>
+          <h1>2da Prueba de Aplicación Deploy Mordor BlueGreen</h1>
+          <p>EX280 Openshift Administrator</p>
+          <p>Modificado por fdv 19:32</p>
         </div>
       </div>
       <div class="row">
